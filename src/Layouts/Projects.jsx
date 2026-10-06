@@ -1,6 +1,6 @@
 import { HiArrowUpRight, HiOutlineArrowTopRightOnSquare, HiOutlineCheckCircle, HiOutlineCodeBracket, HiOutlineXMark } from "react-icons/hi2";
 
-import centroMartImage from "../assets/projects/centromart.png";
+import centroMartImage from "../assets/project/centromart.png";
 import { useState } from "react";
 
 const projects = [
